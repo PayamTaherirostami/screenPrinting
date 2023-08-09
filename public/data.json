@@ -1,0 +1,463 @@
+[
+  {
+    "id": "0",
+    "Name": "Finding Thread for the next Job",
+    "Dep": "Embroidery",
+    "aptNotes": "Embroidery",
+    "aptDate": "Embroidery",
+    "link":"/documents/Finding Thread for the next Job.docx"
+  },
+    {
+    "id": "1",
+    "Name": "Assistant training - Best ways to prep for a job",
+    "Dep": "Embroidery",
+    "aptNotes": "Embroidery",
+    "aptDate": "Embroidery",
+    "link":"/documents/Assistant training - Best ways to prep for a job.docx"
+  },
+  {
+  "id": "2",
+  "Name": "Custom Pocket Application Guide",
+  "Dep": "Embroidery",
+  "aptNotes": "Embroidery",
+  "aptDate": "Embroidery",
+  "link":"/documents/Custom Pocket Application Guide.docx"
+},
+{
+"id": "3",
+"Name": "Digitizing notes for Operators",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Digitizing notes for Operators.docx"
+},
+{
+"id": "4",
+"Name": "Embroidery Cleaner Expectations",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Embroidery Cleaner Expectations.docx"
+},
+{
+"id": "5",
+"Name": "Embroidery Machine Maintenance",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Embroidery Machine Maintenance.docx"
+},
+{
+"id": "6",
+"Name": "Embroidery Name Drop Guide",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Embroidery Name Drop Guide.docx"
+},
+{
+"id": "7",
+"Name": "Everything you need to know about Bobbin Cases",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Everything you need to know about Bobbin Cases.docx"
+},
+{
+"id": "8",
+"Name": "Finding Garments for the next Job",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Finding Garments for the next Job.docx"
+},
+{
+"id": "9",
+"Name": "Press Operator Job Description",
+"Dep": "Screen Printing",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Press Operator Job Description.docx"
+},
+{
+"id": "10",
+"Name": "Garment QC Points of Improvements",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Garment QC Points of Improvements.docx"
+},
+{
+"id": "11",
+"Name": "Hooping guidelines",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Hooping guidelines.docx"
+},
+{
+"id": "12",
+"Name": "Needle size and information",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Needle size and information.docx"
+},
+{
+"id": "13",
+"Name": "Locations Guide",
+"Dep": "Screen Printing / Embroidery ",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Locations Guide.pdf"
+},
+{
+"id": "14",
+"Name": "Customer threads callout",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Customer threads callout.xlsx"
+},
+{
+"id": "15",
+"Name": "Op Training - How Backings and toppings can make or break your embroidery",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Op Training - How Backings and toppings can make or break your embroidery.docx"
+},
+{
+"id": "16",
+"Name": "PreReq Expectations Embroidery",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/PreReq Expectations Embroidery.docx"
+},
+{
+"id": "17",
+"Name": "Rotary Hook info and Timing",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Rotary Hook info and Timing.docx"
+},
+{
+"id": "18",
+"Name": "Troubleshooting",
+"Dep": "Embroidery",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/troubleshooting.docx"
+},
+{
+"id": "19",
+"Name": "Adding Misprints",
+"Dep": "Screen Printing",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Adding Misprints.docx"
+}
+,
+    {
+    "id": "20",
+    "Name": "Press Assistant Training",
+    "Dep": "Screen Printing",
+    "aptNotes": "Embroidery",
+    "aptDate": "Embroidery",
+    "link":"/documents/Press Assistant Training.docx"
+  },
+  {
+  "id": "21",
+  "Name": "KPS PHOTO PROOF",
+  "Dep": "Screen Printing",
+  "aptNotes": "Embroidery",
+  "aptDate": "Embroidery",
+  "link":"/documents/KPS PHOTO PROOF.docx"
+},
+{
+"id": "22",
+"Name": "Shipping Checklist",
+"Dep": "Shipping",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Shipping Checklist.docx"
+},
+{
+"id": "23",
+"Name": "Press Assistant- Press Operator-Lead levels",
+"Dep": "Screen Printing",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Press Assistant- Press Operator-Lead levels.pdf"
+},
+{
+"id": "24",
+"Name": "Catcher-Shop Assistant-Lead levels",
+"Dep": "Screen Printing",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Catcher-Shop Assistant-Lead.pdf"
+},
+{
+"id": "25",
+"Name": "Managment Core Four Skills Outline",
+"Dep": "Embroidery/ Screen Printing",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Managment Core Four Skills Outline.pdf"
+},
+{
+"id": "26",
+"Name": "Receiving Department Duty",
+"Dep": "Receiving",
+"aptNotes": "Embroidery",
+"aptDate": "Embroidery",
+"link":"/documents/Receiving Department Duty.pdf"
+},
+{
+  "id": "27",
+  "Name": "Press Assistant Job Description",
+  "Dep": "Screen Printing",
+  "aptNotes": "Embroidery",
+  "aptDate": "Embroidery",
+  "link":"/documents/Press Assistant Job Description.docx"
+},
+{
+  "id": "28",
+  "Name": "Press Operator Job Description",
+  "Dep": "Screen Printing",
+  "aptNotes": "Embroidery",
+  "aptDate": "Embroidery",
+  "link":"/documents/Press Operator Job Description.docx"
+  },
+  {
+    "id": "29",
+    "Name": "Auto Press Set up",
+    "Dep": "Screen Printing",
+    "aptNotes": "Embroidery",
+    "aptDate": "Embroidery",
+    "link":"/documents/Auto Press Set up.docx"
+    },
+    {
+      "id": "30",
+      "Name": "QA Process for KPS Jobs",
+      "Dep": "Shipping",
+      "aptNotes": "Embroidery",
+      "aptDate": "Embroidery",
+      "link":"/documents/QA Process for KPS Jobs.pdf"
+      },
+      {
+        "id": "31",
+        "Name": "Packing",
+        "Dep": "Shipping",
+        "aptNotes": "Embroidery",
+        "aptDate": "Embroidery",
+        "link":"/documents/Packing.docx"
+        }
+        ,
+      {
+        "id": "32",
+        "Name": "Screen Printing Glossary",
+        "Dep": "Screen Printing",
+        "aptNotes": "Embroidery",
+        "aptDate": "Embroidery",
+        "link":"/documents/Screen Printing Glossary.pdf"
+        },
+        {
+          "id": "33",
+          "Name": "Time-Max Size-Location",
+          "Dep": "Embroidery/ Screen Printing",
+          "aptNotes": "Embroidery",
+          "aptDate": "Embroidery",
+          "link":"/documents/Time-Max Size-Location.pdf"
+          },
+          {
+            "id": "34",
+            "Name": "Knit Troubleshoot Guide",
+            "Dep": "Embroidery/ Knitting",
+            "aptNotes": "Embroidery",
+            "aptDate": "Embroidery",
+            "link":"/documents/Knit Troubleshoot Guide.pdf"
+            },
+            {
+              "id": "35",
+              "Name": "Before begin Production",
+              "Dep": "Embroidery/ Screen Printing",
+              "aptNotes": "Embroidery",
+              "aptDate": "Embroidery",
+              "link":"/documents/Before begin Production.pdf"
+              },
+              {
+                "id": "36",
+                "Name": "Auto press screen printer",
+                "Dep": "Screen Printing",
+                "aptNotes": "Embroidery",
+                "aptDate": "Embroidery",
+                "link":"/documents/Auto press screen printer.docx"
+                },
+                {
+                  "id": "37",
+                  "Name": "Rejected Order Training",
+                  "Dep": "Embroidery/ Screen Printing",
+                  "aptNotes": "Embroidery",
+                  "aptDate": "Embroidery",
+                  "link":"/documents/Rejected Order Training.pdf"
+                  },
+                  {
+                    "id": "38",
+                    "Name": "Points of Improvements",
+                    "Dep": "Embroidery",
+                    "aptNotes": "Embroidery",
+                    "aptDate": "Embroidery",
+                    "link":"/documents/Points of Improvements.pdf"
+                    },
+                    {
+                      "id": "39",
+                      "Name": "How to print 50-50 blend",
+                      "Dep": "Screen Printing",
+                      "aptNotes": "Embroidery",
+                      "aptDate": "Embroidery",
+                      "link":"/documents/How to print 50-50 blend.pdf"
+                      },
+                      {
+                        "id": "40",
+                        "Name": "Implementation of 5S",
+                        "Dep": "Embroidery/ Screen Printing",
+                        "aptNotes": "Embroidery",
+                        "aptDate": "Embroidery",
+                        "link":"/documents/Implementation of 5S.pdf"
+                        },
+                        {
+                          "id": "41",
+                          "Name": "Embroidery Operator Responsibilities",
+                          "Dep": "Embroidery",
+                          "aptNotes": "Embroidery",
+                          "aptDate": "Embroidery",
+                          "link":"/documents/Embroidery Operator Responsibilities.docx"
+                          },
+                          {
+                            "id": "42",
+                            "Name": "Auto Screen Printing Operator Responsibilities",
+                            "Dep": "Screen Printing",
+                            "aptNotes": "Embroidery",
+                            "aptDate": "Embroidery",
+                            "link":"/documents/Auto Screen Printing Operator Responsibilities.docx"
+                            } ,
+                            {
+                              "id": "43",
+                              "Name": "Screen Printing Press Operator",
+                              "Dep": "Screen Printing",
+                              "aptNotes": "Embroidery",
+                              "aptDate": "Embroidery",
+                              "link":"/documents/Screen Printing Press Operator.docx"
+                              }  ,
+                              {
+                                "id": "44",
+                                "Name": "Screen Printing Shop Assistant",
+                                "Dep": "Screen Printing",
+                                "aptNotes": "Embroidery",
+                                "aptDate": "Embroidery",
+                                "link":"/documents/Screen Printing Shop Assistant.docx"
+                                } ,
+                                {
+                                  "id": "45",
+                                  "Name": "Embroidery Machine Operator",
+                                  "Dep": "Embroidery",
+                                  "aptNotes": "Embroidery",
+                                  "aptDate": "Embroidery",
+                                  "link":"/documents/Embroidery Machine Operator.docx"
+                                  } ,
+                                  {
+                                    "id": "46",
+                                    "Name": "Graphic Designer",
+                                    "Dep": "Art",
+                                    "aptNotes": "Embroidery",
+                                    "aptDate": "Embroidery",
+                                    "link":"/documents/Graphic Designer.docx"
+                                    }  ,
+                                    {
+                                      "id": "47",
+                                      "Name": "Embroidery Assistant",
+                                      "Dep": "Embroidery",
+                                      "aptNotes": "Embroidery",
+                                      "aptDate": "Embroidery",
+                                      "link":"/documents/Embroidery Assistant.docx"
+                                      }  ,
+                                      {
+                                        "id": "48",
+                                        "Name": "Screen Printing Supervisor",
+                                        "Dep": "Screen Printing",
+                                        "aptNotes": "Embroidery",
+                                        "aptDate": "Embroidery",
+                                        "link":"/documents/Screen Printing Supervisor.docx"
+                                        }  ,
+                                        {
+                                          "id": "49",
+                                          "Name": "Screen Printing Manager Core IV",
+                                          "Dep": "Screen Printing",
+                                          "aptNotes": "Embroidery",
+                                          "aptDate": "Embroidery",
+                                          "link":"/documents/Screen Printing Manager core IV.docx"
+                                          }  ,
+                                          {
+                                            "id": "50",
+                                            "Name": "Warehouse Assistant (KWF)",
+                                            "Dep": "Screen Printing",
+                                            "aptNotes": "Embroidery",
+                                            "aptDate": "Embroidery",
+                                            "link":"/documents/Warehouse Assistant (KWF).docx"
+                                            } ,
+                                            {
+                                              "id": "51",
+                                              "Name": "Support team, Custom Pocket Prep guide",
+                                              "Dep": "Embroidery",
+                                              "aptNotes": "Embroidery",
+                                              "aptDate": "Embroidery",
+                                              "link":"/documents/Support team, Custom Pocket Prep guide.docx"
+                                              } ,
+                                              {
+                                                "id": "52",
+                                                "Name": "Cleaner Training, understand your backings and toppings",
+                                                "Dep": "Embroidery",
+                                                "aptNotes": "Embroidery",
+                                                "aptDate": "Embroidery",
+                                                "link":"/documents/Cleaner Training, understand your backings and toppings.docx"
+                                                } ,
+                                                {
+                                                  "id": "53",
+                                                  "Name": "KPS Packaging Completed Orders",
+                                                  "Dep": "Embroidery",
+                                                  "aptNotes": "Embroidery",
+                                                  "aptDate": "Embroidery",
+                                                  "link":"/documents/KPS Packaging Completed Orders.docx"
+                                                  } ,
+                                                  {
+                                                    "id": "54",
+                                                    "Name": "Embroidery Checklist",
+                                                    "Dep": "Embroidery",
+                                                    "aptNotes": "Embroidery",
+                                                    "aptDate": "Embroidery",
+                                                    "link":"/documents/Embroidery Checklist.pdf"
+                                                    } ,
+                                                    {
+                                                      "id": "55",
+                                                      "Name": "Screen Printing Checklist",
+                                                      "Dep": "Embroidery",
+                                                      "aptNotes": "Embroidery",
+                                                      "aptDate": "Embroidery",
+                                                      "link":"/documents/Screen Printing Checklist.pdf"
+                                                      } ,
+                                                      {
+                                                        "id": "56",
+                                                        "Name": "how_to_be_a_great_screen_printer",
+                                                        "Dep": "Embroidery",
+                                                        "aptNotes": "Embroidery",
+                                                        "aptDate": "Embroidery",
+                                                        "link":"/documents/how_to_be_a_great_screen_printer.pdf"
+                                                        } 
+                                                  
+                                                    
+                                    
+]

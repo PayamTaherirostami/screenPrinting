@@ -1,0 +1,196 @@
+li{
+  margin-bottom: 10px;
+  font-size: 1.4rem;
+}
+  #search{
+margin-left: 30px;
+  }
+.ax{
+  width: 150px;
+}
+.s{
+  margin-top: 50px;
+  width: 200px;
+ margin-bottom: 30px;
+  height: 25px;
+  margin-left: 30px;
+}
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.container.container-sm {
+  max-width: 782px;
+}
+nav {
+  border-radius: 15px;
+  height: 50px;
+  background: #05a;
+  line-height: 50px;
+  margin-bottom: 5px;
+  /* width: 900px; */
+  float:center ;
+}
+.nav-links {
+
+  list-style: none;
+  color: rgb(122, 197, 240);
+  font-family: Arial, Helvetica, sans-serif;
+  /* display: block; */
+  justify-content: space-around;
+
+  list-style: none; 
+  text-align: center;
+  margin-top:20px
+}
+nav ul {
+  list-style-type: none;
+}
+nav li {
+  float: left; 
+  width: 25%;
+
+} 
+nav a {
+  text-decoration: none;
+
+  display: block;
+
+  color: white;
+}
+h3{
+  margin-left: 30px;
+}
+nav a:hover {
+  border-radius: 15px;
+  background: #028;
+  color: aqua;
+}
+.p-1 {
+  padding: 1rem;
+}
+.mt-2 {
+  margin-top: 2rem;
+}
+.border-5 {
+  border-radius: 5px;
+}
+.title {
+  font-size: 3.75rem;
+  font-weight: 500;
+  margin: 3rem 0;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+.form-group img{
+  width: 150px;
+  margin-right: 20px;
+  margin-bottom: -50PX;
+}
+.form-group label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  margin-top: 50px;
+}
+
+.form-group input,
+.form-group select {
+  border: 1px solid rgba(238, 238, 238, 0.9333333333);
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+.text-center {
+  text-align: center;
+}
+.shadow-sm {
+  box-shadow: 0 2px 8px 3px rgba(0, 0, 0, 0.15);
+}
+.bg-darkGreen {
+  background-color: rgb(36, 59, 36);
+}
+
+.text-darkGreen {
+  color: rgb(36, 59, 36);
+}
+.text-light {
+  color: #f8f9fa;
+}
+
+body {
+  margin: 0;
+  font-family: consolas;
+}
+
+footer {
+  position: absolute;
+  font-size: 22px;
+  bottom: 0;
+  left: 0;
+  transform: translate(calc(50vw - 50%), -50%);
+  color: white;
+}
+
+footer a {
+  color: white;
+}
+
+#main {
+  margin: 80px 80px 0 80px;
+}
+
+@media only screen and (max-width: 600px) {
+  #main {
+    margin: 20px 20px 0 20px;
+  }
+}
+
+p {
+  font-size: 22px;
+}
+
+label {
+  font-size: 22px;
+  font-weight: bold;
+  display: block;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 300px;
+}
+
+canvas {
+  position: absolute;
+  bottom: 0;
+  pointer-events: none;
+  width: 100%;
+  height: 50vh;
+}
+.calendar {
+  /* background:turquoise; */
+color:red
+} 
+
+
+.calender td  a{
+color: red;
+}
+.calendar th {
+  /* background: navy; */
+  padding: 10px;
+  font-size: 1em;
+  
+} 
+.calendar .fc .fc-col-header-cell-cushion { /* needs to be same precedence */
+  padding-top: 5px; /* an override! */
+  padding-bottom: 5px; /* an override! */
+}
+.calendar a{
+  text-decoration: none !important;
+  color: #505363;
+}

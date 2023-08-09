@@ -56,9 +56,9 @@ function App() {
       <Route exact path="/">
       <nav>
           <ul className="nav-links">
-              <li> <Link to={{ pathname:"/dev" }}  > HOME</Link></li>
-              <li> <Link to={{ pathname:"/dev" }}  > ABOUT US</Link></li>
-              <li> <Link to={{ pathname:"/dev" }}  > GALLERY</Link></li>
+              <li> <Link to={{ pathname:"/dev" }}  > Maintenance</Link></li>
+              <li> <Link to={{ pathname:"/dev" }}  > Documents</Link></li>
+              <li> <Link to={{ pathname:"/dev" }}  > Tasks</Link></li>
               <li> <Link to={{ pathname:"/calendar" }}  > Calendar</Link></li>
           </ul>
       </nav>

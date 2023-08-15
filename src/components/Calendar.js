@@ -8,12 +8,17 @@ import timeGridPlugin from '@fullcalendar/timegrid';
 import listPlugin from '@fullcalendar/list';
 import esLocale from '@fullcalendar/core/locales/es';
 import momentPlugin from '@fullcalendar/moment';
+// import timeGridPlugin from "@fullcalendar/timegrid";
+// import FullCalendar from "@fullcalendar/react";
+// import dayGridPlugin from "@fullcalendar/daygrid";
+// import interactionPlugin, { Draggable } from "@fullcalendar/interaction";
 import Data from '../events.csv';
 import Papa from 'papaparse'
 
 
 export default function Calendar () {
   const [rowData, setRowData] = useState('');
+  const [view,setView]=useState("timeGridWeek")
  
 
   useEffect(() => {
@@ -35,24 +40,39 @@ export default function Calendar () {
 
   const handleClick=(arg)=>{
 
-    alert(`Location: ${arg.event.extendedProps.location}\nPo#: ${arg.event.extendedProps.PoNumber}\nStart Time: ${arg.event.extendedProps.time1}\nEstimated Finish Time: ${arg.event.extendedProps.time2}\nPress: ${arg.event.extendedProps.press}\nQnt: ${arg.event.extendedProps.qnt}\nPuller? ${arg.event.extendedProps.puller}\n`)
+    alert(`Location: ${arg.event.extendedProps.location}\nPo#: ${arg.event.extendedProps.PoNumber}\nPress: ${arg.event.extendedProps.press}\nQnt: ${arg.event.extendedProps.qnt}\nPuller? ${arg.event.extendedProps.puller}\n`)
 
   }
+  
+
+  // dayGridMonth
+
 
     return (
       <div className='calendar'>
+      
       <FullCalendar 
-        plugins={[ dayGridPlugin, momentPlugin ,interactionPlugin, timeGridPlugin, listPlugin ] }  
+        plugins={[ 
+          dayGridPlugin, momentPlugin ,interactionPlugin, timeGridPlugin, listPlugin 
+        ] }  
+        // header={{
+        //   left: "prev,next, today",
+        //   center: "title",
+        //   right: "dayGridMonth,timeGridWeek,timeGridDay"
+        // }}
         editable={true}
-       initialView="dayGridMonth"
+       initialView={view}
        timeZone= 'PST'
        events={rowData}
        droppable= {true}
+      //  allday={false}
        locales= {[ esLocale ]}
        locale= 'en'
        eventClick={handleClick}
-      //  weekends={false}
+       weekends={false}
        eventTextColor= "white"
+       
+
   />
        </div>
     )

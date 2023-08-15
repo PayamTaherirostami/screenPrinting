@@ -194,3 +194,6 @@ color: red;
   text-decoration: none !important;
   color: #505363;
 }
+.fc-timegrid-col-frame{
+  font-size: 1.5rem;
+}
